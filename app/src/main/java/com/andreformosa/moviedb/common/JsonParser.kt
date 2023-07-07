@@ -1,6 +1,5 @@
 package com.andreformosa.moviedb.common
 
-import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.serializer
